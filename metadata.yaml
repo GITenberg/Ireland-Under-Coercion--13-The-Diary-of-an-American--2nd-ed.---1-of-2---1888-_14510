@@ -1,0 +1,30 @@
+_repo: Ireland-Under-Coercion--13-The-Diary-of-an-American--2nd-ed.---1-of-2---1888-_14510
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hurlbert, William Henry
+    aliases:
+    - Hurlbut, William Henry
+    - Hurlburt, William Henry
+    birthdate: 1827
+    deathdate: 1895
+    gutenberg_agent_id: '5558'
+    url: http://www.gutenberg.org/2009/agents/5558
+description: ''
+gutenberg_issued: '2004-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Politics and government -- 1837-1901'
+- !lcc 'DA'
+- !lcsh 'Ireland -- Description and travel'
+title: "Ireland Under Coercion\r\nThe Diary of an American (2nd ed.) (1 of 2) (1888)"
+url: http://www.gutenberg.org/ebooks/14510
